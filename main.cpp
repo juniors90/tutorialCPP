@@ -1,10 +1,12 @@
-// pimer programa en C++
+// primer programa en C++
 
 #include <iostream>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hola Mundo";
-    std::cin.get();
+
+int main() {
+    
+    cout << "Hola Mundo Cruel"<<endl;
+    cin.get();
     return 0;
 }
