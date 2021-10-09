@@ -1,4 +1,5 @@
-// tipos de datos en C++
+/* Data Type on C++
+Autor: Ferreira, Juan David. */
 
 #include <iostream>
 using namespace std;
